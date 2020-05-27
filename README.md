@@ -11,6 +11,7 @@
 * [Exploiting](#exploiting)
 * [Code Substitution](#substitution)
 * [Exploit Algorithm](#algorithm)
+* [Exploit Credits](#credits)
 
 ## Release
 
@@ -78,3 +79,13 @@ attacker --- r0pwn --- NAT -+- Firewall -+- target
                             +------------+
                                 bypass
 ```
+
+## Credits
+
+**Authors:**
+
+* Ivan Nikolsky (@enty8080) - `research` and `development`.
+
+**Special Thanks:**
+
+* [PhoneSploit](https://github.com/metachar/PhoneSploit) - thanks for `inspiration`.
