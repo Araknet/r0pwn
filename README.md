@@ -6,10 +6,17 @@
 
 ## Table of contents
 
+* [Official Release](#release)
 * [Dependencies](#dependencies)
 * [Exploiting](#exploiting)
 * [Code Substitution](#substitution)
 * [Exploit Algorithm](#algorithm)
+
+## Release
+
+This is a repo of an exploit, but this exploit is a part of the Ghost Framework developed by @entynetproject.
+
+[Ghost Framework](https://github.com/entynetproject/ghost)
 
 ## Dependencies
 
