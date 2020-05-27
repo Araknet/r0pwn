@@ -1,4 +1,6 @@
-# r0pwn
+# r0pwn 2.0
+
+*hmm...*
 
     Android Debug Bridge RCE exploit.
 
