@@ -45,7 +45,7 @@ root
 root@nevada:~#
 ```
 
-# Substitution
+## Substitution
 
 ```shell
 root@kali:~/r0pwn# python3 exploit.py <target> -s <code>
