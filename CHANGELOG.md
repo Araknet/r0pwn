@@ -1,8 +1,8 @@
-1.0
+v1.0
 
 * First release
 
-2.0 
+v2.0 
 
 * Bug fixes
 * Offline detection
