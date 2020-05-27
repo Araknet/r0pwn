@@ -8,6 +8,7 @@
 
 * [Dependencies](#dependencies)
 * [Exploiting](#exploiting)
+* [Code Substitution](#substitution)
 * [Exploit Algorithm](#algorithm)
 
 ## Dependencies
@@ -35,6 +36,12 @@ exploiting 192.168.1.75...
 root@nevada:~# whoami
 root
 root@nevada:~#
+```
+
+# Substitution
+
+```shell
+root@kali:~/r0pwn# python3 exploit.py <target> -s <code>
 ```
 
 # Algorithm
