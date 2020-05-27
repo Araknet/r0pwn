@@ -1,6 +1,6 @@
 # r0pwn 2.0
 
-*hmm...*
+*hmm... r0pwn means robot pwn?*
 
     Android Debug Bridge RCE exploit.
 
